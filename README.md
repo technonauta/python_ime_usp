@@ -24,8 +24,8 @@ Críticas (construtivas) e sugestões são bem vindas e podem ser encaminhadas p
 LISTAS DE EXERCÍCIOS
 INTRODUÇÃO À COMPUTAÇÃO
 Departamento de Ciência da Computação
-
 IME-USP     2005
+
 FEITO >> Exercícios com Inteiros >> https://www.ime.usp.br/~macmulti/exercicios/inteiros/index.html
 
 TO AQUI >> Exercícios com Repetições Encaixadas >> https://www.ime.usp.br/~macmulti/exercicios/repetenc/index.html
