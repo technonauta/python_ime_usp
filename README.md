@@ -27,6 +27,7 @@ Departamento de Ciência da Computação
 
 IME-USP     2005
 FEITO >> Exercícios com Inteiros >> https://www.ime.usp.br/~macmulti/exercicios/inteiros/index.html
+
 TO AQUI >> Exercícios com Repetições Encaixadas >> https://www.ime.usp.br/~macmulti/exercicios/repetenc/index.html
 Exercícios com Reais >> https://www.ime.usp.br/~macmulti/exercicios/reais/index.html
 Exercícios com Funções - Parte I >> https://www.ime.usp.br/~macmulti/exercicios/funcoes1/index.html
